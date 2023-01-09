@@ -7,5 +7,6 @@ public class say {
         System.out.println("hot_fix做出了修改3");
         System.out.println("hot_fix做出了修改4");
         System.out.println("hot_fix做出了修改5");
+        System.out.println("hot_fix做出了修改6");
     }
 }
